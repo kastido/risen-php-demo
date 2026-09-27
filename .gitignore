@@ -1,0 +1,18 @@
+# Ignore future user uploads
+uploads/*
+
+# Keep repository placeholders/sample assets
+!uploads/.gitkeep
+!uploads/163ac21ee50c7334cf03e29a8a644abe.jpg
+
+# Environment/config files
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
